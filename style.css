@@ -88,7 +88,8 @@ p {
     width: 40%;
 }
 .half-img {
-    width: 100%
+    width: 100%;
+    margin-top: 20%;
 }
 
 /********************************* about-section **************************/
@@ -102,7 +103,7 @@ p {
 
 
 #about-img {
-    bottom: 15%;
+    bottom: 5%;
     position: relative;
     right: 5%;
     
